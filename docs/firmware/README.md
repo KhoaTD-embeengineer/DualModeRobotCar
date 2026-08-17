@@ -1,0 +1,1 @@
+In this project, I use ESP-IDF framework. By this way, I learned to setup and organize a IOT system with ESP-IDF.
