@@ -1,1 +1,6 @@
+# Loại bỏ thư mục web tự sinh của Flutter
+mobile_app/web/* linguist-vendored
+mobile_app/web/** linguist-vendored
+
+# Tắt quét tất cả các file HTML
 *.html linguist-detectable=false
